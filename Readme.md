@@ -6,9 +6,9 @@ This Solidity smart contract, named "MyTokens," is a basic example of a token ma
 
 - `tokenName`: The name of the token is "Rahul."
 
-- `token-abb`: The abbreviation for the token is "Kumar."
+- `token_abb`: The abbreviation for the token is "Kumar."
 
-- `total-amount`: The total supply of tokens is tracked using this variable, initially set to 0.
+- `total_amount`: The total supply of tokens is tracked using this variable, initially set to 0.
 
 ### Token Balances
 
